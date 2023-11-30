@@ -77,6 +77,9 @@ function Coursesdetails() {
                 ? courseDetails.course[0].detail
                 : "Details Not Available"}
             </p>
+            <button class="px-4 py-3 text-indigo-950 transition-all transform border border-indigo-950 hover:bg-indigo-950  hover:text-gray-100">
+              Enroll Now
+            </button>
           </div>
         </div>
 

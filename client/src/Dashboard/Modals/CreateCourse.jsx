@@ -156,7 +156,7 @@ function CreateCourse({ addcourse, closeModal, addedCourse }) {
             onClick={handleUpdate}
             className="bg-indigo-950 text-white px-4 py-2 rounded-md mr-2 hover:bg-indigo-900"
           >
-            Update
+            Create
           </button>
           <button
             onClick={closeModal}

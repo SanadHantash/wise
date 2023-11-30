@@ -71,12 +71,9 @@ function WorkshopDetails() {
                     : "Detail Not Available"}
                 </p>
 
-                <a
-                  href="/"
-                  class="px-4 py-3 text-indigo-950 transition-all transform border border-indigo-950 hover:bg-indigo-950  hover:text-gray-100"
-                >
-                  Discover more
-                </a>
+                <button class="px-4 py-3 text-indigo-950 transition-all transform border border-indigo-950 hover:bg-indigo-950  hover:text-gray-100">
+                  Enroll Now
+                </button>
               </div>
               <div></div>
             </div>
